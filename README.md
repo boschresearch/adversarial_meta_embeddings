@@ -11,7 +11,7 @@ This is the companion code for the experiments reported in the paper
 > "FAME: Feature-Based Adversarial Meta-Embeddings
 for Robust Input Representations"  by Lukas Lange, Heike Adel, Jannik Strötgen and Dietrich Klakow published at EMNLP 2021.
 
-The paper can be found [here](TODO). 
+The paper can be found [here](https://aclanthology.org/2021.emnlp-main.660.pdf). 
 The code allows the users to reproduce the results reported in the paper and extend the model to new datasets and embedding configurations. 
 Please cite the above paper when reporting, reproducing or extending the results as:
 
