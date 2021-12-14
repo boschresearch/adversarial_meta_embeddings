@@ -19,14 +19,18 @@ Please cite the above paper when reporting, reproducing or extending the results
 
 ```
 @inproceedings{lange-etal-2021-fame,
-    title = "FAME: Feature-Based Adversarial Meta-Embeddings for Robust Input Representations",
+    title = "{FAME}: {F}eature-Based Adversarial Meta-Embeddings for Robust Input Representations",
     author = {Lange, Lukas  and
       Adel, Heike  and
-      Str{\"o}tgen, Jannik and
+      Str{\"o}tgen, Jannik  and
       Klakow, Dietrich},
-    booktitle = "EMNLP",
+    booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
     month = nov,
     year = "2021",
+    address = "Online and Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.emnlp-main.660",
+    pages = "8382--8395"
 }
 ```
 
